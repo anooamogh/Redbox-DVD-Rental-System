@@ -1,0 +1,9 @@
+rent "Passengers"
+add "Passengers",2
+return "Doctor Strange"
+return "Passengers"
+return "Captain America: Civil War"
+remove "Captain America: Civil War",3
+add "Shrek",2
+remove "Shrek",2
+add "Quirky",2
